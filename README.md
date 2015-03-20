@@ -3,8 +3,7 @@
 
 ##Project Description
 
-The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
-The requirement to have:
+The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project requires:
 
     *a tidy data set as described below
     *a link to a Github repository with your script for performing the analysis, and
